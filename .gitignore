@@ -1,0 +1,6 @@
+/apiCadastro/bin/Debug/*
+/apiCadastro/obj/*
+/bin/Debug/*
+/Domain/bin/Debug/*
+/LogUtil/obj/Debug/*
+/Domain/obj/Debug/*
